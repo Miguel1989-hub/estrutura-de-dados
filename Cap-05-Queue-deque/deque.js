@@ -90,17 +90,17 @@ export class Deque {
     }
 }
 
- export const testeDeque = new Deque();
+//  export const testeDeque = new Deque();
 
-testeDeque.addBack("joao")
-testeDeque.addBack("rafael")
-testeDeque.addBack("Miguel")
-testeDeque.addBack("Anis")
+// testeDeque.addBack("joao")
+// testeDeque.addBack("rafael")
+// testeDeque.addBack("Miguel")
+// testeDeque.addBack("Anis")
 
-// // console.log(testeDeque.toString());
+// // // console.log(testeDeque.toString());
 
-testeDeque.addFront("miguel")
+// testeDeque.addFront("miguel")
 
-console.log(testeDeque.count);
-console.log(testeDeque.toString());
+// console.log(testeDeque.count);
+// console.log(testeDeque.toString());
 
