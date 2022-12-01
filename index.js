@@ -14,4 +14,3 @@ import { hotPotato } from "./Cap-05-Queue-deque/hotPotato.js";
 
 // hotPotato(["miguel", "marilia", "anis", "clarinha"], 3);
 
-
