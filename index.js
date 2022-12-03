@@ -4,6 +4,7 @@ import { baseCovensor } from "./Cap-04-Stack/baseConversor.js";
 import { Queue } from "./Cap-05-Queue-deque/queue.js";
 import { Deque} from "./Cap-05-Queue-deque/deque.js";
 import { hotPotato } from "./Cap-05-Queue-deque/hotPotato.js";
+import { LinkedList } from "./cap-06-linkedList/linkedList.js";
 
 // ----------  Funções dos exercícios envolvendo as estruturas de dados stack
 
@@ -14,3 +15,4 @@ import { hotPotato } from "./Cap-05-Queue-deque/hotPotato.js";
 
 // hotPotato(["miguel", "marilia", "anis", "clarinha"], 3);
 
+// ----------  Funções dos exercícios envolvendo as estruturas de dados LinkedList
